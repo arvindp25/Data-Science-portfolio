@@ -22,13 +22,13 @@ Loading Data with the  help of Pandas <br>
 preproecessing data <br>
     i checking null value and imputing <br>
     ii. checking duplicates <br>
-    iii. Handling Categorical columns which have so many cateogory in it 
-    iv. Understanding Data by by EDA
- splitting data in 70/30
- Scaling Data whereever required
- model building 
- Model evaluation by various parameter 
- For regression :-RMSE
- For CLassification :- Accuracy score or AUC-ROC SCOre(for imbalance data)
+    iii. Handling Categorical columns which have so many cateogory in it <br>
+    iv. Understanding Data by by EDA <br>
+ splitting data in 70/30 <br>
+ Scaling Data whereever required <br>
+ model building <br>
+ Model evaluation by various parameter <br> 
+ For regression :-RMSE <br>
+ For CLassification :- Accuracy score or AUC-ROC SCOre(for imbalance data) <br>
  
- Finalizing and conclusion of model
+ Finalizing model and conclusion with respect to business term <br>
