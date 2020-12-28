@@ -2,6 +2,7 @@
 <h3>Information About language,library,tools and technique </h3> <br>
 
 <h4>Language</h4> Python <br>
+<hr>
 ide - jupyter notebook <br>
 Library - numpy for mathematical calculation <br> 
           pandas for creating Dataframe manipulationg Dataframe, Preprocessing Data Field <br>
