@@ -12,11 +12,12 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 Steps follwed:-
 <h7>data preparation with the help of numpy ans pandas </h7> <br>
 
-     checking For null value
+     checking For null value.
      Changing dtype of categorical columns from numerical to object.
      Dropping unrelavant columns.
+     Mapping categorical column
      
-Exploratory data analysis with the help of matplotlib ans seaborn <br> 
+<h7>Exploratory data analysis with the help of matplotlib ans seaborn </h7> <br> 
 (Linear Regrssion) model building with the help statsmodel.api so we can have detail of model, <br>
 Model validation and making sure none of assumption is contradicted <br>
 Conclusion for company. <br>
