@@ -20,31 +20,24 @@ Matplotlib and Seaborn for various plot i.e barchart,scatterplot,boxplot <br>
 <hr>
 <h4> algorithms </h4>
 Linear Regression 
->>wikipedia :- <a href="bit.ly/2M8CLFD">link</a> <br>
 >> sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html <br>
 Logistic Regression
->> wikipedia :- bit.ly/38FNI9s. <br>
 >>sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html <br>
 Decison Trees  <br>
->> wikipedia:- t.ly/XZ1y <br>
 >> sklearn :- https://scikit-learn.org/stable/modules/tree.html <br>
 Random Forest <br>
->> wikipedia :-t.ly/eDCU <br>
+
 >> sklearn :-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html <br>
 Ada boost <br>
->> wikipedia:- t.ly/mtuY
 >> documentation:-
 XGbooost <br>
->> wikipedia:- t.ly/jKye <br>
+
 >> xgboost documentation:-https://xgboost.readthedocs.io/en/latest/ <br>
 K-means <br>
->>wikipedia:-https:/bit.ly/2L5g8kT <br>
->> https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html <br>
+>>documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html <br>
 Hierarchical clustering <br>
->>wikipedia:- t.ly/Tt1y <br>
 >> documentation:- https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering <br>
-Regularization (Lasso and Ridge) <br>
-                 
+<hr>                 
 Steps follwed in various Project <br>
  
  
