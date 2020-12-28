@@ -26,7 +26,6 @@ Logistic Regression
 Decison Trees  <br>
 >> sklearn :- https://scikit-learn.org/stable/modules/tree.html <br>
 Random Forest <br>
-
 >> sklearn :-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html <br>
 Ada boost <br>
 >> documentation:-
