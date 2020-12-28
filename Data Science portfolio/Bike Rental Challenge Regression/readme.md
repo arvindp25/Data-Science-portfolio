@@ -10,7 +10,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 
 Steps follwed:-
-data preparation with the help of numpy ans pandas <br>
+<h7>data preparation with the help of numpy ans pandas <br>
 Exploratory data analysis with the help of matplotlib ans seaborn <br> 
 (Linear Regrssion) model building with the help statsmodel.api so we can have detail of model, <br>
 Model validation and making sure none of assumption is contradicted <br>
