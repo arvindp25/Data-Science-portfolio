@@ -18,8 +18,16 @@ Matplotlib and Seaborn for various plot i.e barchart,scatterplot,boxplot <br>
 >> sklearn for various algorithms <br>
 >>https://scikit-learn.org/
 <hr>
-algorithms used : <br>
-                 Random Forest <br>
+<h4> algorithms </h4>
+Linear Regression 
+>>wikipedia :-https://en.wikipedia.org/wiki/Linear_regression <br>
+>> sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html <br>
+Logistic Regression
+>> wikipedia :- https://en.wikipedia.org/wiki/Logistic_regression#:~:text=Logistic%20regression%20is%20a%20statistical,a%20form%20of%20binary%20regression).
+>>sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+Decison Trees 
+>> wikipedia:- https://en.wikipedia.org/wiki/Decision_tree#:~:text=A%20decision%20tree%20is%20a%20flowchart%2Dlike%20structure%20in%20which,taken%20after%20computing%20all%20attributes).
+Random Forest <br>
                  XGbooost <br>
                  K-means <br>
                  Hierarichal <br>
