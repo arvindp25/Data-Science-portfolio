@@ -30,13 +30,13 @@ Random Forest <br>
 Ada boost <br>
 >> documentation:-
 XGbooost <br>
-
 >> xgboost documentation:-https://xgboost.readthedocs.io/en/latest/ <br>
 K-means <br>
 >>documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html <br>
 Hierarchical clustering <br>
 >> documentation:- https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering <br>
-<hr>                 
+<hr>            
+
 Steps follwed in various Project <br>
  
  
