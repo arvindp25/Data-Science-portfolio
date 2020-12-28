@@ -37,20 +37,19 @@ Hierarchical clustering <br>
 >> documentation:- https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering <br>
 <hr>            
 
-Steps follwed in various Project <br>
+<h4>Steps follwed in various Case Study </h4>  <br>
+i.Loading Data with the  help of Pandas <br>
+ii.preproecessing data <br>
+    a. checking null value and imputing <br>
+    b. checking duplicates <br>
+    c. Handling Categorical columns which have so many cateogory in it <br>
+    d. Understanding Data by by EDA <br>
+ iii.splitting data in 70/30 <br>
+ iv.Scaling Data whereever required <br>
+ v.Model building <br>
+ vi.Model evaluation by various parameter <br> 
+    a. For regression :-RMSE <br>
+    b.For CLassification :- Accuracy score or AUC-ROC SCOre(for imbalance data) <br>
  
- 
-Loading Data with the  help of Pandas <br>
-preproecessing data <br>
-    i checking null value and imputing <br>
-    ii. checking duplicates <br>
-    iii. Handling Categorical columns which have so many cateogory in it <br>
-    iv. Understanding Data by by EDA <br>
- splitting data in 70/30 <br>
- Scaling Data whereever required <br>
- model building <br>
- Model evaluation by various parameter <br> 
- For regression :-RMSE <br>
- For CLassification :- Accuracy score or AUC-ROC SCOre(for imbalance data) <br>
- 
- Finalizing model and conclusion with respect to business term <br>
+ vii.Finalizing model and conclusion with respect to business term <br>
+ <hr>
