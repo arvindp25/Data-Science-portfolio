@@ -20,15 +20,20 @@ Matplotlib and Seaborn for various plot i.e barchart,scatterplot,boxplot <br>
 <hr>
 <h4> algorithms </h4>
 Linear Regression 
->>wikipedia :-https://en.wikipedia.org/wiki/Linear_regression <br>
+>>wikipedia :- bit.ly/2M8CLFD <br>
 >> sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html <br>
 Logistic Regression
->> wikipedia :- https://en.wikipedia.org/wiki/Logistic_regression#:~:text=Logistic%20regression%20is%20a%20statistical,a%20form%20of%20binary%20regression).
+>> wikipedia :- bit.ly/38FNI9s.
 >>sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 Decison Trees 
->> wikipedia:- https://en.wikipedia.org/wiki/Decision_tree#:~:text=A%20decision%20tree%20is%20a%20flowchart%2Dlike%20structure%20in%20which,taken%20after%20computing%20all%20attributes).
+>> wikipedia:- t.ly/XZ1y <br>
+>> sklearn :- https://scikit-learn.org/stable/modules/tree.html <br>
 Random Forest <br>
-                 XGbooost <br>
+>> wikipedia :-t.ly/eDCU <br>
+>> sklearn :-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html <br>
+XGbooost <br>
+>> wikipedia:- t.ly/jKye <br>
+>> xgboost documentation:-https://xgboost.readthedocs.io/en/latest/ <br>
                  K-means <br>
                  Hierarichal <br>
                  Regularization (Lasso and Ridge) <br>
