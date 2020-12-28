@@ -10,14 +10,29 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 <hr>
 
 Steps follwed:-
-<h6>data preparation with the help of numpy ans pandas </h6> <br>
+<h6>data preparation with the help of numpy and pandas </h6> <br>
 
      checking For null value.
      Changing dtype of categorical columns from numerical to object.
      Dropping unrelavant columns.
      Mapping categorical column
      
-<h7>Exploratory data analysis with the help of matplotlib ans seaborn </h7> <br> 
-(Linear Regrssion) model building with the help statsmodel.api so we can have detail of model, <br>
+<h7>Exploratory data analysis with the help of matplotlib ans seaborn </h7> <br>
+ 
+     Some insight:-
+     i.When weather is clear, demand for bike is high
+     ii.holiday demand of bike is low
+     iii. Demand of bike is high in second quarter and third quarter i.e april-september
+  
+<h7> model building with the help statsmodel.api so we can have detail of model</h7> <br>
+
+     Algorithm used Linear Regression.
+     R2 Score on test data:82
+     R2 Score on train data:81
+     
 Model validation and making sure none of assumption is contradicted <br>
-Conclusion for company. <br>
+
+     We used Vif and p-value to make sure coefficient and constant can be accepted.
+     sum of residual is equal to 0
+     error is normally distributed
+<h7>Conclusion for company.</h7> <br>
