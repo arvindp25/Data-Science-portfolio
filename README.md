@@ -7,13 +7,17 @@
 jupyter notebook <br>
 google colaboratory<br>
 <hr>
-<h4>Library<h4> 
-Numpy for mathematical calculation and opeation.
+<h4>Library</h4> 
+Numpy for mathematical calculation and opeation. <br>
 >> https://numpy.org/ <br> 
-          pandas for creating Dataframe manipulationg Dataframe, Preprocessing Data Field <br>
-          Matplotlib and Seabron for plotting the plot <br>
-          sklearn for various algorithms <br>
-          
+Pandas for loading data,manipulationg Dataframe, Preprocessing data with help of various method <br>
+>> https://pandas.pydata.org/ <br>
+Matplotlib and Seaborn for various plot i.e barchart,scatterplot,boxplot <br>
+>>https://matplotlib.org/ <br>
+>>https://seaborn.pydata.org/ <br>
+>> sklearn for various algorithms <br>
+>>https://scikit-learn.org/
+<hr>
 algorithms used : <br>
                  Random Forest <br>
                  XGbooost <br>
