@@ -3,8 +3,13 @@
 
 <h4>Language</h4> Python <br>
 <hr>
-ide - jupyter notebook <br>
-Library - numpy for mathematical calculation <br> 
+<h4>ide</h4>
+jupyter notebook <br>
+google colaboratory<br>
+<hr>
+<h4>Library<h4> 
+Numpy for mathematical calculation and opeation.
+https://numpy.org/ <br> 
           pandas for creating Dataframe manipulationg Dataframe, Preprocessing Data Field <br>
           Matplotlib and Seabron for plotting the plot <br>
           sklearn for various algorithms <br>
