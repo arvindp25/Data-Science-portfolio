@@ -1,7 +1,7 @@
 # Data-Science-portfolio
-<h1>Detail About</h1> <br>
+<h3>Information About language,library,tools and technique </h3> <br>
 
-Language used :- Python <br>
+<h4>Language</h4> :- Python <br>
 ide - jupyter notebook <br>
 Library - numpy for mathematical calculation <br> 
           pandas for creating Dataframe manipulationg Dataframe, Preprocessing Data Field <br>
