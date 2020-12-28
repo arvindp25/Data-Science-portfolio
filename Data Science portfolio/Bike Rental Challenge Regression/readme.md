@@ -10,7 +10,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 <hr>
 
 Steps follwed:-
-<h7>data preparation with the help of numpy ans pandas </h7> <br>
+<h6>data preparation with the help of numpy ans pandas </h6> <br>
 
      checking For null value.
      Changing dtype of categorical columns from numerical to object.
