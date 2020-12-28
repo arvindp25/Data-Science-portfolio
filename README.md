@@ -20,7 +20,7 @@ Matplotlib and Seaborn for various plot i.e barchart,scatterplot,boxplot <br>
 <hr>
 <h4> algorithms </h4>
 Linear Regression 
->>wikipedia :- <a>bit.ly/2M8CLFD </a> <br>
+>>wikipedia :- <a href="bit.ly/2M8CLFD">link</a> <br>
 >> sklearn documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html <br>
 Logistic Regression
 >> wikipedia :- bit.ly/38FNI9s. <br>
