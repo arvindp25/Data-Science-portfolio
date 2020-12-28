@@ -7,10 +7,15 @@ The company is finding it very difficult to sustain in the current market scenar
 plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
 In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
-
+<hr>
 
 Steps follwed:-
-<h7>data preparation with the help of numpy ans pandas <br>
+<h7>data preparation with the help of numpy ans pandas </h7> <br>
+
+     checking For null value
+     Changing dtype of categorical columns from numerical to object.
+     Dropping unrelavant columns.
+     
 Exploratory data analysis with the help of matplotlib ans seaborn <br> 
 (Linear Regrssion) model building with the help statsmodel.api so we can have detail of model, <br>
 Model validation and making sure none of assumption is contradicted <br>
