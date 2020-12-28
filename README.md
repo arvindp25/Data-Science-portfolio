@@ -38,7 +38,7 @@ XGbooost <br>
 >> wikipedia:- t.ly/jKye <br>
 >> xgboost documentation:-https://xgboost.readthedocs.io/en/latest/ <br>
 K-means <br>
->>wikipedia:-https://en.wikipedia.org/wiki/K-means_clustering <br>
+>>wikipedia:-https:/bit.ly/2L5g8kT <br>
 >> https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html <br>
 Hierarchical clustering <br>
 >>wikipedia:- t.ly/Tt1y <br>
