@@ -35,6 +35,8 @@ K-means <br>
 >>documentation:- https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html <br>
 Hierarchical clustering <br>
 >> documentation:- https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering <br>
+principal component analysis
+>>documentaion:- https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 <hr>            
 
 <h4>Steps follwed in various Case Study </h4>  <br>
