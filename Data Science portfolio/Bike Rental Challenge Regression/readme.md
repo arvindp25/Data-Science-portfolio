@@ -35,4 +35,22 @@ Model validation and making sure none of assumption is contradicted <br>
      We used Vif and p-value to make sure coefficient and constant can be accepted.
      sum of residual is equal to 0
      error is normally distributed
+ <hr>
 <h7>Conclusion for company.</h7> <br>
+
+
+We can see that the equation:
+
+$ cnt =  0.1495 + 0.5037\times temp   - 0.1007  \times  holiday -0.0763 \times season_spring + 0.0367  \times season_summer + 0.0843 \times season_winter + 0.2331 \times yr_2019 - 0.0526 \times mnth_Jul + 0.0809 \times mnth_Sep - 0.2996 \times weathersit Light Rain + Scattered clouds -0.0789 \times weathersit Mist + Cloudy $
+
+Conclusion:-
+1 holiday, season spring, month july weather like raining and mist and cloudy effect negatively. i.e:- if there is holiday and seaon is spring and raining then demand for bike will decrease.
+
+2temp, season summer, month sep, year 2019 these feature increase the demand.i.e:- if temperature is good, season is summer then demand will increase
+
+Suggestion for company:-
+1 In season summer, winter the demand will increase while in season spring demand can decrease, hence company should focus on spring and provide offers to attract more customers
+
+2 when there is holiday demand decrease maybe becoz of people go to work with renting bike hence company can provide some offer or discount in holidays to attract customers
+
+3 weather situation like raining and mist cloudy will decrease demand.
