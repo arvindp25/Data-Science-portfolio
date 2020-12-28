@@ -55,3 +55,10 @@ ii.preproecessing data <br>
  
  vii.Finalizing model and conclusion with respect to business term <br>
  <hr>
+ 
+<h3> What you can find in future </h3>
+Data analysis with tableau.<br>
+Implemeataion of various Time-series models i.e holt's winter, ARIMA, SARIMA, SARIMAX <br>
+Implemetation of Deep Learning algorithms MLP,CNN,RNN <br>
+
+ 
