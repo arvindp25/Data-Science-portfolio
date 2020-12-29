@@ -1,4 +1,4 @@
-work done in tableau public and published in tableau public,you can acess by clicking  <a href="https://public.tableau.com/profile/arvind.kumar.patel#!/vizhome/LendingClubCaseStudy_16092352764830/Story1?publish=yes">here</a>
+work done in tableau public and published on tableau public,you can acess stories by clicking  <a href="https://public.tableau.com/profile/arvind.kumar.patel#!/vizhome/LendingClubCaseStudy_16092352764830/Story1?publish=yes">here</a>
 <hr>
 <h4>Background –Lending Club </h4>
 <h5>Background </h5>
