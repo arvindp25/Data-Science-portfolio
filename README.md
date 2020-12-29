@@ -3,9 +3,11 @@
 
 <h4>Language</h4> Python <br>
 <hr>
-<h4>ide</h4>
+<h4>ide and tools</h4>
 jupyter notebook <br>
 google colaboratory<br>
+
+Tableau<br>
 <hr>
 <h4>Library</h4> 
 Numpy for mathematical calculation and opeation. <br>
