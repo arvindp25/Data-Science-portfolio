@@ -1,10 +1,10 @@
 Steps Followed:-
-Data Loading and Data understanding
-preprocessing 
-Data augmentation
-Model build
-prediction on test data
-analysing model in wrong classified image
+Data Loading and Data understanding <br>
+preprocessing  <br>
+Data augmentation <br>
+Model build <br>
+prediction on test data <br>
+analysing model in wrong classified image <br>
 
 
 1. We manually build CNN architecture with 2 convolutional 1 maxpooling layer , 3 fully connected layers and to stop model to overfit we have used Batchnormalization and dropout of .50 . <br> 
