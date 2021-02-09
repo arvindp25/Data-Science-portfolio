@@ -1,5 +1,5 @@
 
-<center><h2>Action Recoginiton System</center><h2>
+<center><h2>Action Recoginiton System</center></h2>
 In this project we have to build a model which can classify five human action gestures. <br>
 Let’s understand different actions <br>
 Thumbs up: Increase the volume <br>
