@@ -15,3 +15,4 @@ Val folder
 Inside the train folder we have 663 folders each folder contains 30 sequential images.
 Inside the val folder we have 100 folders, each folder contains 30 sequential images.
 Train csv and val csv contain name of folders without action
+ 
