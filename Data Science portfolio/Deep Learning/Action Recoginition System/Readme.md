@@ -24,31 +24,31 @@ able to achieve <b>90 in training and 82</b> in validation, in 35 epochs.
 We have tried a different number of frames,i.e 15,18,20,24,30.Higher number leads t
 <b>OOM error </b>
 We have tried different number of batch,i.e 663,256,128,64,32
-For above 32 batch , We got an OOM error. Then we decided to stick under 32.
+For above 32 batch , We got an OOM error. Then we decided to stick under 32. <br>
 Image size chosen 120x120 and 96x96
 96x96 is chosen because in transfer learning we used MobileNetV2 and generally, any
 state of art model performs well when we feed images of size on which they are trained
-on.
+on. <br>
 For other models we have chosen 120x120 or160x160, we got 2 sizes of images
 360x360 and 120x160, hence we decided to go with either 120x120 or 160x160,.
- 
+ <br>
 In the training dataset we cropped and then resized it to 120x120 or 160x160. If transfer
-learning is used then according to the model on which it was trained.
+learning is used then according to the model on which it was trained. <br>
 For the val dataset we resize all images to 120x120,160x160 and according to the
-transfer learning model.
+transfer learning model. <br>
 For normalisation,
 We tried 2 type of normalization
 Mean normalisation and dividing by 255. We didn’t see much difference in base model
-performance. So we chose dividing by 255. To keep simple.
-Optimizer we have chosen Adam.
-Total of 3 of callbacks are used
-Model checkpoint
-ReduceLROnPlateau with patience 3 and monitor val loss
-EarlyStopping with patience 8 and monitor val loss.
+performance. So we chose dividing by 255. To keep simple. <br>
+Optimizer we have chosen Adam. <br>
+Total of 3 of callbacks are used <br>
+Model checkpoint <br>
+ReduceLROnPlateau with patience 3 and monitor val loss <br>
+EarlyStopping with patience 8 and monitor val loss. <br>
 
-Then we tried all sort of architecture.
-Note:- In notebook we kept only final model architecture 
-For more detail u can check write.pdf, you will find all sort experiment done by us.
+Then we tried all sort of architecture CNN+LSTM,CNN+GRU,conv3d,TF+LSTM,TF+GRU. <br>
+Note:- In notebook we kept only final model architecture  <br>
+For more detail u can check write.pdf, you will find all sort experiment done by us. <br>
 
 this project is done by 
 Arvind kumar patel and Subhasis Pattanayak
