@@ -1,5 +1,5 @@
 
-<center><h2>Action Recoginiton System</center></h2>
+<centre><h2>Action Recoginiton System</centre></h2>
 In this project we have to build a model which can classify five human action gestures. <br>
 Let’s understand different actions <br>
 Thumbs up: Increase the volume <br>
@@ -17,12 +17,12 @@ Inside the train folder we have 663 folders each folder contains 30 sequential i
 Inside the val folder we have 100 folders, each folder contains 30 sequential images.<br>
 Train csv and val csv contain name of folders without action<br>
 
-<b>Approach and Steps</b>
-This problem can be solved by conv3d or,CNN+LSTM,CNN+GRU,tf+LSTM,tf+GRU.
+<h5>Approach and Steps</h5>
+This problem can be solved by <h7>conv3d or,CNN+LSTM,CNN+GRU,tf+LSTM,tf+GRU</h7>.
 We have tried different model architecture and moved accordingly, In final model we are
-able to achieve 90 in training and 82 in validation, in 35 epochs.
+able to achieve <b>90 in training and 82</b> in validation, in 35 epochs.
 We have tried a different number of frames,i.e 15,18,20,24,30.Higher number leads t
-OOM error
+<b>OOM error </b>
 We have tried different number of batch,i.e 663,256,128,64,32
 For above 32 batch , We got an OOM error. Then we decided to stick under 32.
 Image size chosen 120x120 and 96x96
@@ -32,3 +32,23 @@ on.
 For other models we have chosen 120x120 or160x160, we got 2 sizes of images
 360x360 and 120x160, hence we decided to go with either 120x120 or 160x160,.
  
+In the training dataset we cropped and then resized it to 120x120 or 160x160. If transfer
+learning is used then according to the model on which it was trained.
+For the val dataset we resize all images to 120x120,160x160 and according to the
+transfer learning model.
+For normalisation,
+We tried 2 type of normalization
+Mean normalisation and dividing by 255. We didn’t see much difference in base model
+performance. So we chose dividing by 255. To keep simple.
+Optimizer we have chosen Adam.
+Total of 3 of callbacks are used
+Model checkpoint
+ReduceLROnPlateau with patience 3 and monitor val loss
+EarlyStopping with patience 8 and monitor val loss.
+
+Then we tried all sort of architecture.
+Note:- In notebook we kept only final model architecture 
+For more detail u can check write.pdf, you will find all sort experiment done by us.
+
+this project is done by 
+Arvind kumar patel and Subhasis Pattanayak
