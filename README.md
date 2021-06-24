@@ -61,6 +61,6 @@ ii.preproecessing data <br>
 <h3> What you can find in future (28/12/20) </h3>
 <s>Data analysis with tableau.</s><br>
 Implemeataion of various Time-series models i.e holt's winter, ARIMA, SARIMA, SARIMAX <br>
-Implemetation of Deep Learning algorithms MLP,CNN,RNN <br>
+<s>Implemetation of Deep Learning algorithms MLP,CNN,RNN<s> <br>
 
  
