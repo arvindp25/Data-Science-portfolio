@@ -1,4 +1,4 @@
-We don't aim for illegal use of web scraping. all information and tools provided here is aim for educational purposed. <br>
+We don't aim for illegal use of web scraping. all information and tools provided here is aim for educational purpose. <br>
 If You want to remove anything which you find not relvant please mail at officialarvinop@gmail.com
 
 <br> 
