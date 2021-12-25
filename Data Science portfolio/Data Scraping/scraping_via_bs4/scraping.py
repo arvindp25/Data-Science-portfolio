@@ -1,11 +1,9 @@
 import requests
 from bs4 import BeautifulSoup as bs4
 
-import config 
-
 class PlayerInfo:
     def __init__(self):
-        self.url = config.url
+        self.url = url = "https://sofifa.com/players?offset="
 
 
 
@@ -85,6 +83,8 @@ class PlayerInfo:
             except:
                 pass
             player_data.append(data_dic)
+
+            
         return player_data
 
 
